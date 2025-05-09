@@ -2,3 +2,5 @@
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 /audio/
 p2.bdstatic.com
+itv.iptv1688.top
+wouu.net
