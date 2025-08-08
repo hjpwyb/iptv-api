@@ -2,15 +2,12 @@
 # This is a list of subscription sources, with one subscription address per line
 
 http://home.jundie.top:81/Cat/tv/live.txt
-http://www.meowtv.top/mtvzb.txt
-http://150.158.112.123/live.txt
+https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u
 https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
 https://raw.githubusercontent.com/mygoww/xoxo/main/zb/%E6%B5%8B%E8%AF%95.txt
 https://raw.githubusercontent.com/MemoryCollection/IPTV/main/hotel.txt
 https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u
 https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
-https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt
 https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
 https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt
 https://raw.githubusercontent.com/leevi0709/one/main/lib/live.txt
