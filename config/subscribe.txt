@@ -9,3 +9,12 @@ https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u
 https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u
 https://raw.githubusercontent.com/ngo5/IPTV/refs/heads/main/m3u/ipv4.m3u
 https://live.zbds.org/tv/iptv4.txt
+https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/data/iptv01.m3u
+https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/data/resu1.m3u
+https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/data/resu2.m3u
+https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/data/result (1).m3u
+https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/data/result (2).m3u
+https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/data/result.m3u
+https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/data/result1.m3u
+https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/data/54.m3u
+https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/data/55.m3u
