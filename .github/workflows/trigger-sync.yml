@@ -1,0 +1,21 @@
+
+# 文件路径：.github/workflows/trigger-sync.yml
+name: 定时触发 Cloudflare Worker 同步
+
+on:
+  schedule:
+    # 每天北京时间 08:30、14:30、20:30 更新（你可随意改）
+    - cron: '30 0,6,12 * * *'    # UTC 时间 00:30 / 06:30 / 12:30 → 北京 08:30 / 14:30 / 20:30
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  trigger-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 触发 Worker 同步
+        run: |
+          curl -X GET "https://live.yuye.qzz.io/sync" \
+               --fail --silent --show-error \
+               --max-time 120   # 最多等 2 分钟
+          
+          echo "触发同步完成"
