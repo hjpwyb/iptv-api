@@ -2,7 +2,7 @@ name: 'Update schedule'
 
 on:
   schedule:
-    - cron: '0 22,10 * * *'   # 设置定时触发（根据需求修改）
+    - cron: '30 */6 * * *'   # 设置定时触发（根据需求修改）
   workflow_dispatch:
     branches:
       - master
@@ -90,3 +90,14 @@ jobs:
             git commit -m "Github Action Auto Updated"
             git push --force  # 推送到远程仓库
           fi
+
+  trigger-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 触发 Worker 同步
+        run: |
+          curl -X GET "https://live.yuye.qzz.io/sync" \
+               --fail --silent --show-error \
+               --max-time 120   # 最多等 2 分钟
+          
+          echo "触发同步完成"
