@@ -1160,9 +1160,7 @@ CGTN-英语新闻频道,http://10.255.128.136/PLTV/88888888/224/3221225791/10000
 聚鲨环球精选频道,http://10.255.128.136/PLTV/88888888/224/3221226250/10000100000000060000000000801407_0.smil/index.m3u8?fmt=ts2hls
 百姓健康频道,http://10.255.128.136/PLTV/88888888/224/3221226283/10000100000000060000000000801403_0.smil/index.m3u8?fmt=ts2hls
 辽宁宜家购物频道,http://10.255.128.136/PLTV/88888888/224/3221226291/10000100000000060000000000801425_0.smil/index.m3u8?fmt=ts2hls
-CCTV-4K超高清,http://10.255.128.136/PLTV/88888888/224/3221226293/10000100000000060000000001081237_0.smil/index.m3u8?fmt=ts2hls
 优购物,http://10.255.128.136/PLTV/88888888/224/3221226296/10000100000000060000000001081155_0.smil/index.m3u8?fmt=ts2hls
-CCTV4K,http://ott.mobaibox.com/PLTV/3/224/224/3221228228/index.m3u8
 CCTV8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 纯享4K,http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 4K修复,http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
@@ -1468,7 +1466,6 @@ IPTV法制 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000638/index.
 北京家有购物 576,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000708/index.m3u8
 CCTV4欧洲,rtsp://112.245.125.48:1554/iptv/import/Tvod/iptv/001/001/ch21062215382556856499.rsc/91655_Uni.sdp
 CCTV4美洲,rtsp://112.245.125.47:1554/iptv/import/Tvod/iptv/001/001/ch21062215392161397058.rsc/91682_Uni.sdp
-CCTV4K,rtsp://112.245.125.39:1554/iptv/import/Tvod/iptv/001/001/ch23122814382128126762.rsc/99912_Uni.sdp
 爱上4K测试体验,rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch16062014270602375204.rsc/70019_Uni.sdp
 山东经济广播,rtsp://112.245.125.42:1554/iptv/import/Tvod/iptv/001/001/ch24040915081276788638.rsc/100010_Uni.sdp
 山东海洋频道,rtsp://112.245.125.38:1554/iptv/import/Tvod/iptv/001/001/ch22111116270462496793.rsc/96159_Uni.sdp
@@ -1629,7 +1626,6 @@ CGTN阿拉伯语,http://tvgslb.hn.chinamobile.com:8089/180000001002/000000010000
 CGTN俄语,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305589/main.m3u8?stbid=
 四川康巴卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000134000000367619/main.m3u8?stbid=
 三沙卫视高清,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000031000000068476/main.m3u8?stbid=
-CCTV4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023092211020848462000290559536/main.m3u8?stbid=
 活动直播2,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000022000000100549/main.m3u8?stbid=
 CGTN英语,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001058/index.m3u8
 兵团卫视,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8
@@ -1720,7 +1716,6 @@ CHC家庭电影,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227986/index.m3
 阿坝,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227561/index.m3u8
 CCTV-4欧洲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236378/index.m3u8
 CCTV-4美洲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335/index.m3u8
-CCTV-4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?fmt=ts2hls
 CCTV-发现之旅,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236398/index.m3u8
 CCTV-中学生,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236325/index.m3u8
 CGTN-记录,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236205/index.m3u8
@@ -2163,7 +2158,6 @@ CGTN记录,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 cctv5p,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 重温经典,http://38.75.136.137:98/gsl/dsdqbv/cwjdhd.m3u8?auth=test20251009
-CCTV4K,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 4K超高清电影 4K,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/emdy4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 欢笑剧场4K,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/hxjc-4k_8000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
 兵团卫视,http://183.3.202.19:2380/hw1live.rxip.sc96655.com.huan.tv/live/btws_4000.m3u8?E=1&U=1&A=1&K=1&P=1&S=1
