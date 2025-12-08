@@ -5,6 +5,7 @@ https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/qunhui201/TVlogo/refs/heads/main/history/merged.m3u
 https://judy.diver.eu.org/m3u/migu_weishi.m3u
+https://httop.top/hotel.m3u
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 https://raw.githubusercontent.com/judy-gotv/iptv/main/MytvSuper.m3u
 https://raw.githubusercontent.com/judy-gotv/iptv/main/beesports.m3u
