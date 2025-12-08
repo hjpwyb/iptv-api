@@ -109,7 +109,7 @@ CGTN 英語頻道,RTHK35,RTHK 35,RTHK-35
 NewTV爱情喜剧,NEWTV爱情喜剧,爱情喜剧
 NewTV超级体育,NEWTV超级体育,超级体育
 NewTV哒啵赛事,NEWTV哒啵赛事,哒啵赛事
-NewTV动作电影,NEWTV动作电影
+NewTV动作电影,NEWTV动作电影,动作电影
 NewTV古装剧场,NEWTV古装剧场,古装剧场
 NewTV海外剧场,NEWTV海外剧场,海外剧场
 NewTV黑莓电影,NEWTV黑莓电影,黑莓电影
