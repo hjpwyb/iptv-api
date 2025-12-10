@@ -2,3 +2,4 @@
 # This is a list of subscription sources, with one subscription address per l
 
 https://fen.yube.netlib.re/file/111.m3u
+https://fen.yube.netlib.re/file/zx443.m3u
