@@ -1,18 +1,4 @@
 # 这是订阅源列表，每行一个订阅地址
-# This is a list of subscription sources, with one subscription address per line
+# This is a list of subscription sources, with one subscription address per l
 
-https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.githubusercontent.com/qunhui201/TVlogo/refs/heads/main/history/merged.m3u
-https://judy.diver.eu.org/m3u/migu_weishi.m3u
-https://httop.top/hotel.m3u
-https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-https://raw.githubusercontent.com/judy-gotv/iptv/main/MytvSuper.m3u
-https://raw.githubusercontent.com/judy-gotv/iptv/main/beesports.m3u
-https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u
-https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u
-https://raw.githubusercontent.com/judy-gotv/iptv/main/litv.m3u
-https://raw.githubusercontent.com/judy-gotv/iptv/main/ofiii.m3u
-https://raw.githubusercontent.com/judy-gotv/iptv/main/Nowsports.m3u
-https://raw.githubusercontent.com/judy-gotv/iptv/main/tubi_playlist.m3u
-https://raw.githubusercontent.com/judy-gotv/iptv/main/xumo_playlist.m3u
+https://fen.yube.netlib.re/file/111.m3u
