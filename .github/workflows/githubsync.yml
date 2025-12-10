@@ -2,7 +2,7 @@ name: 自动同步 GitHub 文件到 KV
 
 on:
   schedule:
-    - cron: "0 * * * *"  # 每小时触发一次
+    - cron: "50 22,10 * * *"  # 每小时触发一次
   workflow_dispatch:  # 手动触发
 
 jobs:
