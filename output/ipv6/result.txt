@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-10 14:49:48,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-10 16:53:58,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -595,10 +595,9 @@ CETV-4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=86b23c82fc20fd88d
 广东珠江,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010091/0.m3u8
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东珠江,http://www.terrykang.xyz:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
-广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
+广东珠江,https://smt.go-iptv.ggff.net/smart.php?id=zhujiang&token=Goiptv
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
-广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 广东体育,http://php.jdshipin.com/TVOD/iptv.php
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
@@ -1574,7 +1573,6 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 
 🌊港·澳·台,#genre#
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
@@ -1583,6 +1581,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 翡翠台,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 明珠台,https://smt.go-iptv.ggff.net/smart.php?id=pearl_twn&token=Goiptv
 明珠台,http://php.jdshipin.com/TVOD/iptv.php
 明珠台,http://r.jdshipin.com/ZQ4kN
@@ -1610,7 +1609,6 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
-凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
@@ -1618,6 +1616,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+凤凰香港,https://smt.go-iptv.ggff.net/smart.php?id=hkphoenix_twn&token=Goiptv
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
@@ -1792,7 +1791,6 @@ CCTV-5+,http://yc.myds.me:35455/gaoma/cctv5p.m3u8
 CCTV-5+,http://yc.myds.me:35455/itv/6000000001000015875.m3u8?cdn=wasusyt
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
-广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 广东体育,http://php.jdshipin.com/TVOD/iptv.php
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
@@ -1972,6 +1970,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://live.iill.top/huya.php
 猫和老鼠,http://live.iill.top/huya.php
+猫和老鼠,https://live.iill.top/huya/11352879
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
@@ -2016,7 +2015,6 @@ CCTV-15,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 笑傲江湖,http://live.metshop.top/huya/26355790
 笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790
 笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=23865142
-笑傲江湖,http://live.iill.top/huya.php?id=23865142
 笑傲江湖,https://live.metshop.top/yy/1354936128
 笑傲江湖,https://live.iill.top/huya.php
 笑傲江湖,http://live.iill.top/huya.php
