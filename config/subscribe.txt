@@ -1,5 +1,5 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per l
 
-https://fen.yube.netlib.re/file/111.m3u
-https://fen.yube.netlib.re/file/zx443.m3u
+https://web.nob.de5.net/file/111.m3u
+https://web.nob.de5.net/file/zx443.m3u
