@@ -1,11 +1,14 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per l
 
-https://web.nob.de5.net/file/111.m3u
-https://web.nob.de5.net/file/zx443.m3u
-https://web.nob.de5.net/file/209.m3u
-https://web.nob.de5.net/file/tv.m3u
-https://web.nob.de5.net/file/sx.m3u
+https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/111.m3u
+https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/zx443.m3u
+https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/209.m3u
+https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/tv.m3u
+https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/sx.m3u
+https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/123.m3u
+https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/22.m3u
+https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/mu1.m3u
 http://migu.youdu.fan:8008
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
