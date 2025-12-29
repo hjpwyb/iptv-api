@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-29 06:35:34,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-29 18:37:21,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2490,6 +2490,7 @@ ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://hls.168.us.kg/u/99/master.m3u8
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV,https://cdn.163189.xyz/163189/viu
+ViuTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
