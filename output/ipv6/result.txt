@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-30 06:33:13,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-30 18:41:02,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1913,6 +1913,8 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
 东森电影,http://bxtv.3a.ink/api.php?id=dsdy
+龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
+龙祥电影,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 东森洋片,https://live.catvod.com/catvod_com.php?id=ettvwestern
@@ -2464,6 +2466,8 @@ CINEMAX,https://live.catvod.com/live.php?id=Cinemax&token=24b239b8212eae27c9a745
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+美亚电影,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
+美亚电影,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
 
 香港,#genre#
 翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
@@ -2588,6 +2592,8 @@ CINEMAX,https://live.catvod.com/live.php?id=Cinemax&token=24b239b8212eae27c9a745
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影,http://php.jdshipin.com/PLTV/iptv.php?id=meiya
 美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+美亚电影,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
+美亚电影,https://cdn9.163189.xyz/smt1.1.php?id=meiyamovie_twn
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
