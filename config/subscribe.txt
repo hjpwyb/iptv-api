@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/223.m3u
 https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt
 http://migu.youdu.fan:8008
 https://m.im5k.fun/m.m3u
+https://live.zhi35.com/iptv.m3u
 https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
