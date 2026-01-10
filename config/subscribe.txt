@@ -3,6 +3,7 @@
 
 
 https://raw.githubusercontent.com/kenye201/TVlog/refs/heads/main/history/merged.m3u
+https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/ipv4/result.m3u
 
 
 
