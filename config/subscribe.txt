@@ -17,6 +17,7 @@ https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/85.m3u
 https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/901.m3u
 https://raw.githubusercontent.com/hjpwyb/tv1/refs/heads/main/tv/903.m3u
 https://raw.githubusercontent.com/linyu345/live/refs/heads/main/test/all.m3u
+https://raw.githubusercontent.com/kenye201/python/refs/heads/main/test/hotel_all.m3u
 https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt
 https://m.im5k.fun/m.m3u
 https://live.zhi35.com/iptv.m3u
