@@ -1,3 +1,5 @@
+福建卫视,http://118.81.89.214:9003/hls/24/index.m3u8
+内蒙卫视,http://118.81.89.214:9003/hls/38/index.m3u8
 福建卫视,http://110.178.210.130:9003/hls/24/index.m3u8
 内蒙卫视,http://110.178.210.130:9003/hls/38/index.m3u8
 兵团卫视,http://110.178.210.130:9003/hls/50/index.m3u8
@@ -43,6 +45,10 @@
 乡村频道,http://182.117.152.254:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 移动戏曲,http://182.117.152.254:9901/tsfile/live/1041_1.m3u8?key=txiptv&playlive=0&authid=0
 河南公共,http://182.117.152.254:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+经济科教,http://125.94.175.91:20443/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://125.94.175.91:20443/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://125.94.175.91:20443/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://125.94.175.91:20443/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 广西影视,http://171.38.148.103:8082/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 广西移动,http://171.38.148.103:8082/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 广西综艺旅游,http://171.38.148.103:8082/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
