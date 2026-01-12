@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🕘️更新时间",2026-01-12 18:53:09
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🕘️更新时间",2026-01-12 23:34:19
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1873,6 +1873,8 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8
 http://[2409:8087:5e08:25::4]:6610/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方财经.png" group-title="☘️上海频道",东方财经
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/index.m3u8
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方财经.png" group-title="☘️上海频道",东方财经
+https://diyp.store/mk/dfcj
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/动漫秀场.png" group-title="☘️上海频道",动漫秀场
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/动漫秀场.png" group-title="☘️上海频道",动漫秀场
@@ -1959,6 +1961,8 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001199/index.m3u8
 http://[2409:8087:5e08:25::4]:6610/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/生活时尚.png" group-title="☘️上海频道",生活时尚
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/index.m3u8
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/生活时尚.png" group-title="☘️上海频道",生活时尚
+https://diyp.store/mk/shss
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一财经.png" group-title="☘️上海频道",第一财经
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一财经.png" group-title="☘️上海频道",第一财经
@@ -3243,6 +3247,8 @@ http://k.061899.xyz/k.php?id=adws
 http://[2409:8087:5e08:25::4]:6610/000000001000/5000000006000022124/index.m3u8?channel-id=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安多卫视.png" group-title="☘️青海频道",安多卫视
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安多卫视.png" group-title="☘️青海频道",安多卫视
+https://diyp.store/mk/adws
 #EXTINF:-1 tvg-name="西宁生活服务" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西宁生活服务.png" group-title="☘️青海频道",西宁生活服务
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 #EXTINF:-1 tvg-name="西宁生活服务" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西宁生活服务.png" group-title="☘️青海频道",西宁生活服务
@@ -4033,6 +4039,8 @@ http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://ott.mobaibox.com/PLTV/4/224/3221228234/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
+https://diyp.store/GQ/qclq
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩广场舞.png" group-title="🏀体育频道",睛彩广场舞
 http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩广场舞.png" group-title="🏀体育频道",睛彩广场舞
@@ -4079,6 +4087,8 @@ https://www.freetv.top/migu/796070308.m3u8?migutoken=aef1ffa947e5328dd4ec2bb318b
 https://hls-gateway.vpstv.net/streams/708839.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/魅力足球.png" group-title="🏀体育频道",魅力足球
 http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/魅力足球.png" group-title="🏀体育频道",魅力足球
+https://diyp.store/mk/mlzq
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天元围棋.png" group-title="🏀体育频道",天元围棋
 https://cc06.tv12.xyz/47.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天元围棋.png" group-title="🏀体育频道",天元围棋
@@ -4101,6 +4111,8 @@ https://migu.188766.xyz/?migutoken=786b1099b98396dd627cb3dc7218143f&id=%E5%BF%AB
 https://migu.188766.xyz/?migutoken=eb6bd2a86f08587ae39231c4be8be5c6&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 https://migu.188766.xyz/?migutoken=f3057d0e91854bca6042a309f3cb3d6f&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
+http://hlszymgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=2026011222013156c96411da8248188b601d9487874437&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260112220131&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=39.98.76.232&SecurityKey=20260112220131&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6f82073d9daeac5ac454c4864f4e7bb4&sv=10004&ct=android
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JJ斗地主.png" group-title="🏀体育频道",JJ斗地主
 https://live.iill.top/douyin/685317364746
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷动画.png" group-title="🪁动画频道",卡酷动画

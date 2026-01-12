@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-12 18:53:09,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-12 23:34:19,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -948,6 +948,7 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 东方财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8
 东方财经,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 东方财经,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/index.m3u8
+东方财经,https://diyp.store/mk/dfcj
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 动漫秀场,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226197/index.m3u8
 动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
@@ -991,6 +992,7 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 生活时尚,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001199/index.m3u8
 生活时尚,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
 生活时尚,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/index.m3u8
+生活时尚,https://diyp.store/mk/shss
 第一财经,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 第一财经,http://ls.qingting.fm/live/276.m3u8
 第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb
@@ -1681,6 +1683,7 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 安多卫视,http://k.061899.xyz/k.php?id=adws
 安多卫视,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000006000022124/index.m3u8?channel-id=bestzb&Contentid=5000000006000022124&livemode=1&stbId=3
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
+安多卫视,https://diyp.store/mk/adws
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
@@ -2086,6 +2089,7 @@ CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 睛彩篮球,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 睛彩篮球,http://ott.mobaibox.com/PLTV/4/224/3221228234/index.m3u8
 睛彩篮球,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/index.m3u8
+睛彩篮球,https://diyp.store/GQ/qclq
 睛彩广场舞,http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://missyao.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
@@ -2109,6 +2113,7 @@ CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=aef1ffa947e5328dd4ec2bb318b58b674fe32113222c6c9eab78bcdc2a9f31cf142a1d60536ea5a5ee039d3753e6bd98bef238d0ba7e3af9153e765e8b77e2a8c28451355b4a426d11c5c304f8
 魅力足球,https://hls-gateway.vpstv.net/streams/708839.m3u8
 魅力足球,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
+魅力足球,https://diyp.store/mk/mlzq
 天元围棋,https://cc06.tv12.xyz/47.m3u8
 天元围棋,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/main.m3u8?stbid=
 快乐垂钓,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031206
@@ -2120,6 +2125,7 @@ CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 快乐垂钓,https://migu.188766.xyz/?migutoken=786b1099b98396dd627cb3dc7218143f&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 快乐垂钓,https://migu.188766.xyz/?migutoken=eb6bd2a86f08587ae39231c4be8be5c6&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 快乐垂钓,https://migu.188766.xyz/?migutoken=f3057d0e91854bca6042a309f3cb3d6f&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
+快乐垂钓,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/ydcmklcd/51/20251225/index.m3u8?msisdn=2026011222013156c96411da8248188b601d9487874437&mdspid=&spid=600603&netType=0&sid=5910022317&pid=2028597139&timestamp=20260112220131&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930263&ParentNodeID=-99&assertID=5910022317&client_ip=39.98.76.232&SecurityKey=20260112220131&promotionId=&mvid=5900006783&mcid=500020&playurlVersion=WX-A1-8.12.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6f82073d9daeac5ac454c4864f4e7bb4&sv=10004&ct=android
 JJ斗地主,https://live.iill.top/douyin/685317364746
 
 🪁动画频道,#genre#
