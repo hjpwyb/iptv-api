@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-12 23:34:19,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-13 06:42:32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -958,7 +958,7 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
 动漫秀场,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 动漫秀场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225764/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226138/index.m3u8
-动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
+动漫秀场,https://diyp.store/mk/dmxc
 哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
 哈哈炫动,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225657/2.m3u8
 哈哈炫动,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226618/index.m3u8
@@ -2148,7 +2148,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
 动漫秀场,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
 动漫秀场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225764/index.m3u8#http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226138/index.m3u8
-动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
+动漫秀场,https://diyp.store/mk/dmxc
 新动漫,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8
 新动漫,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448837/main.m3u8?stbid=
 新动漫,https://tv.iill.top/migu/xdm&token=cc939526aed05a9c3f42c88c61fb8cb76c2acee2ebd65691e243451029eb7b84
