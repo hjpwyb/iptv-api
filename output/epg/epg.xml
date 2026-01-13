@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260113062703 +0800">
+<tv date="20260113073047 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -19860,6 +19860,18 @@
 	<programme channel="纯享4K" start="20260113114600 +0800" stop="20260113122700 +0800">
 		<title lang="zh">远方的家4K 我家那片海 蔚蓝大海 美丽海角</title>
 	</programme>
+	<programme channel="纯享4K" start="20260113122700 +0800" stop="20260113130900 +0800">
+		<title lang="zh">远方的家4K 我家那片海 耕海牧渔 蓝色粮仓</title>
+	</programme>
+	<programme channel="纯享4K" start="20260113131400 +0800" stop="20260113132000 +0800">
+		<title lang="zh">美丽中国自然4K 汗马系列 寻找驼鹿</title>
+	</programme>
+	<programme channel="纯享4K" start="20260113132000 +0800" stop="20260113135000 +0800">
+		<title lang="zh">信仰的感召4K 生死与共 周文雍 陈铁军</title>
+	</programme>
+	<programme channel="纯享4K" start="20260113135000 +0800" stop="20260113144200 +0800">
+		<title lang="zh">遇鉴文明4K 生命律动 中国舞蹈与西方芭蕾</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
@@ -22671,6 +22683,9 @@
 	<programme channel="NewTV动作电影" start="20260113115900 +0800" stop="20260113123400 +0800">
 		<title lang="zh">杨洪昌白花蛇颈腰椎膏-渠道（右）</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20260113123400 +0800" stop="20260113142800 +0800">
+		<title lang="zh">大黄蜂</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -22709,6 +22724,12 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20260113113900 +0800" stop="20260113121400 +0800">
 		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260113121400 +0800" stop="20260113133500 +0800">
+		<title lang="zh">迷毒之东风破</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260113133500 +0800" stop="20260113142500 +0800">
+		<title lang="zh">美国进口FeiGRS磷脂酰丝氨酸-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
