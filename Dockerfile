@@ -1,67 +1,20 @@
-FROM python:3.13-alpine AS builder
+# 使用轻量级 Python
+FROM python:3.11-slim
 
-ARG NGINX_VER=1.27.4
-ARG RTMP_VER=1.2.2
+# 安装 FFmpeg 和必要的系统库
+RUN apt-get update && apt-get install -y ffmpeg && rm -rf /var/lib/apt/lists/*
 
-WORKDIR /app
+# 设置工作目录
+WORKDIR /iptv-api
 
-COPY Pipfile* ./
+# 复制项目文件
+COPY . .
 
-RUN apk update && apk add --no-cache gcc musl-dev python3-dev libffi-dev zlib-dev jpeg-dev wget make pcre-dev openssl-dev \
-  && pip install pipenv \
-  && PIPENV_VENV_IN_PROJECT=1 pipenv install --deploy
+# 安装 Python 依赖
+RUN pip install --no-cache-dir -r requirements.txt
 
-RUN wget https://nginx.org/download/nginx-${NGINX_VER}.tar.gz && \
-    tar xzf nginx-${NGINX_VER}.tar.gz
+# 设置环境变量，强制不缓冲日志，让你能实时看到输出
+ENV PYTHONUNBUFFERED=1
 
-RUN wget https://github.com/arut/nginx-rtmp-module/archive/v${RTMP_VER}.tar.gz && \
-    tar xzf v${RTMP_VER}.tar.gz
-
-WORKDIR /app/nginx-${NGINX_VER}
-RUN ./configure \
-    --add-module=/app/nginx-rtmp-module-${RTMP_VER} \
-    --conf-path=/etc/nginx/nginx.conf \
-    --error-log-path=/var/log/nginx/error.log \
-    --http-log-path=/var/log/nginx/access.log \
-    --with-http_ssl_module && \
-    make && \
-    make install
-
-FROM python:3.13-alpine
-
-ARG APP_WORKDIR=/iptv-api
-
-ENV APP_WORKDIR=$APP_WORKDIR
-ENV APP_PORT=5180
-ENV NGINX_HTTP_PORT=8080
-ENV NGINX_RTMP_PORT=1935
-ENV PATH="/.venv/bin:/usr/local/nginx/sbin:$PATH"
-
-WORKDIR $APP_WORKDIR
-
-COPY . $APP_WORKDIR
-
-COPY --from=builder /app/.venv /.venv
-COPY --from=builder /usr/local/nginx /usr/local/nginx
-
-RUN mkdir -p /var/log/nginx && \
-  ln -sf /dev/stdout /var/log/nginx/access.log && \
-  ln -sf /dev/stderr /var/log/nginx/error.log
-
-RUN apk update && apk add --no-cache ffmpeg pcre
-
-EXPOSE $NGINX_HTTP_PORT
-
-COPY entrypoint.sh /iptv-api-entrypoint.sh
-
-COPY config /iptv-api-config
-
-COPY nginx.conf.template /etc/nginx/nginx.conf.template
-
-RUN mkdir -p /usr/local/nginx/html
-
-COPY stat.xsl /usr/local/nginx/html/stat.xsl
-
-RUN chmod +x /iptv-api-entrypoint.sh
-
-ENTRYPOINT /iptv-api-entrypoint.sh
+# 启动命令
+CMD ["python", "main.py"]
