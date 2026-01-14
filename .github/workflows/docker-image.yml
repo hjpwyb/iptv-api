@@ -30,4 +30,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository_user }}/iptv-api:latest
+          # 修复点：直接使用 github.repository 变量，它包含了 "用户名/仓库名"
+          tags: |
+            ghcr.io/${{ github.repository }}:latest
