@@ -2,7 +2,10 @@ name: Build and Publish Docker Image
 
 on:
   push:
-    branches: ['main'] # 当你向 main 分支提交代码时触发构建
+    branches:
+      - main
+      - master  # 同时兼容 main 或 master 分支
+  workflow_dispatch: # 增加这一行：允许你在 GitHub 页面上点按钮手动触发
 
 jobs:
   build:
