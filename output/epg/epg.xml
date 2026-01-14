@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260114145626 +0800">
+<tv date="20260114164139 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -13341,6 +13341,12 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20260114185300 +0800" stop="20260114200100 +0800">
 		<title lang="zh">鲁班奇术</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260114200100 +0800" stop="20260114204200 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260114204200 +0800" stop="20260114221700 +0800">
+		<title lang="zh">不速之客</title>
 	</programme>
 	<channel id="收藏天下">
 		<display-name lang="zh">收藏天下</display-name>
@@ -27226,6 +27232,18 @@
 	<programme channel="纯享4K" start="20260114193600 +0800" stop="20260114201800 +0800">
 		<title lang="zh">远方的家4K 运河畔的山水家园 航行在苏州运河</title>
 	</programme>
+	<programme channel="纯享4K" start="20260114201800 +0800" stop="20260114210000 +0800">
+		<title lang="zh">远方的家4K 运河畔的山水家园 常乐之州 古韵悠长</title>
+	</programme>
+	<programme channel="纯享4K" start="20260114210000 +0800" stop="20260114210500 +0800">
+		<title lang="zh">美丽中国自然4K 汗马系列 林荫美地</title>
+	</programme>
+	<programme channel="纯享4K" start="20260114211000 +0800" stop="20260114214000 +0800">
+		<title lang="zh">信仰的感召4K 铁肩道义 李大钊</title>
+	</programme>
+	<programme channel="纯享4K" start="20260114214000 +0800" stop="20260114223300 +0800">
+		<title lang="zh">遇鉴文明4K 沉思翰藻 中国诗歌与西方诗歌</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -32181,6 +32199,15 @@
 	</programme>
 	<programme channel="NewTV动作电影" start="20260114183000 +0800" stop="20260114200800 +0800">
 		<title lang="zh">惊爆缉捕令</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260114200800 +0800" stop="20260114204300 +0800">
+		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260114204300 +0800" stop="20260114215100 +0800">
+		<title lang="zh">特勤精英之生死救援</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260114215100 +0800" stop="20260114223500 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
 	<channel id="茶频道">
 		<display-name lang="zh">茶频道</display-name>
