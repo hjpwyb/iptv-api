@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🕘️更新时间",2026-01-15 06:47:21
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🕘️更新时间",2026-01-15 18:54:46
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -3135,6 +3135,8 @@ https://www.ahtv.cn/folder9000/folder20193?channelIndex=6
 https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽影视.png" group-title="☘️安徽频道",安徽影视
 https://t.freetv.fun/live/an-hui-ying-shi.m3u8
+#EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽影视.png" group-title="☘️安徽频道",安徽影视
+https://t.freetv.fun/live/an-hui-ying-shi-2.m3u8
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽经济生活.png" group-title="☘️安徽频道",安徽经济生活
 https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1745774515&key=a93a5e1794618b8f0038e5d4206cb748
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽经济生活.png" group-title="☘️安徽频道",安徽经济生活
