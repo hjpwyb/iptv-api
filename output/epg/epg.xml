@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260115050347 +0800">
+<tv date="20260115065434 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -20373,6 +20373,15 @@
 	<programme channel="纯享4K" start="20260115100100 +0800" stop="20260115104100 +0800">
 		<title lang="zh">探索b7发现4K 和敬公主园寝</title>
 	</programme>
+	<programme channel="纯享4K" start="20260115104100 +0800" stop="20260115112100 +0800">
+		<title lang="zh">探索b7发现4K 东闸新村汉墓</title>
+	</programme>
+	<programme channel="纯享4K" start="20260115112100 +0800" stop="20260115113600 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 版画b7七个奔跑的人</title>
+	</programme>
+	<programme channel="纯享4K" start="20260115114100 +0800" stop="20260115122300 +0800">
+		<title lang="zh">远方的家4K 运河畔的山水家园 运河诗情 筑梦常州</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
@@ -23232,6 +23241,12 @@
 	<programme channel="NewTV动作电影" start="20260115094900 +0800" stop="20260115110400 +0800">
 		<title lang="zh">维和冲锋：绝境求生</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20260115110400 +0800" stop="20260115113900 +0800">
+		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260115113900 +0800" stop="20260115124200 +0800">
+		<title lang="zh">大狂蜂：起源</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -23264,6 +23279,9 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20260115100800 +0800" stop="20260115104300 +0800">
 		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260115104300 +0800" stop="20260115120200 +0800">
+		<title lang="zh">倩狐之京卫怪谈</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
