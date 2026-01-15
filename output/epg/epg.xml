@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260115120251 +0800">
+<tv date="20260115171657 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -20391,6 +20391,24 @@
 	<programme channel="纯享4K" start="20260115174800 +0800" stop="20260115182800 +0800">
 		<title lang="zh">探索b7发现4K 和敬公主园寝</title>
 	</programme>
+	<programme channel="纯享4K" start="20260115182800 +0800" stop="20260115190800 +0800">
+		<title lang="zh">探索b7发现4K 东闸新村汉墓</title>
+	</programme>
+	<programme channel="纯享4K" start="20260115192800 +0800" stop="20260115201000 +0800">
+		<title lang="zh">远方的家4K 运河畔的山水家园 运河诗情 筑梦常州</title>
+	</programme>
+	<programme channel="纯享4K" start="20260115201000 +0800" stop="20260115205200 +0800">
+		<title lang="zh">远方的家4K 运河畔的山水家园 苏州味道</title>
+	</programme>
+	<programme channel="纯享4K" start="20260115205600 +0800" stop="20260115210200 +0800">
+		<title lang="zh">美丽中国自然4K 玉树系列 嘉塘草原</title>
+	</programme>
+	<programme channel="纯享4K" start="20260115210200 +0800" stop="20260115213200 +0800">
+		<title lang="zh">信仰的感召4K 党员楷模 罗亦农</title>
+	</programme>
+	<programme channel="纯享4K" start="20260115213200 +0800" stop="20260115222100 +0800">
+		<title lang="zh">良渚4K 第1集 斗转星移</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
@@ -23298,6 +23316,12 @@
 	<programme channel="NewTV动作电影" start="20260115175800 +0800" stop="20260115193600 +0800">
 		<title lang="zh">荒野逃生</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20260115193600 +0800" stop="20260115201100 +0800">
+		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260115201100 +0800" stop="20260115221700 +0800">
+		<title lang="zh">终结者：黑暗命运</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -23354,6 +23378,18 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20260115174800 +0800" stop="20260115182300 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260115182300 +0800" stop="20260115193500 +0800">
+		<title lang="zh">蟒山</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260115193500 +0800" stop="20260115201500 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260115201500 +0800" stop="20260115214300 +0800">
+		<title lang="zh">猎杀外星人</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260115214300 +0800" stop="20260115222600 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
