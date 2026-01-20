@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-20 06:43:21,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-20 18:56:42,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2390,6 +2390,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 龙华戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn18
 龙华戏剧,https://hls-gateway.vpstv.net/streams/476293.m3u8
 龙华戏剧,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn18
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 龙华偶像,https://cdn8.163189.xyz/163189/lhox
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华偶像,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn12
@@ -2405,6 +2406,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 龙华电影,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn03
 龙华电影,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn03
 龙华电影,https://hls-gateway.vpstv.net/streams/476300.m3u8
+龙华电影,http://cdn8.163189.xyz/163189/lhdy
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 龙华洋片,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn02
 龙华洋片,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn02
@@ -2487,6 +2489,7 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 ViuTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
 ViuTV,https://5.edge.101.qzz.io/smt3.2.1.php?id=viu1_twn
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
