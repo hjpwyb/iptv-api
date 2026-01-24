@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-24 06:42:36,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-24 18:44:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2412,6 +2412,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 龙华洋片,https://live.catvod.com/live.php?id=lunghuawestern_twn
 龙华洋片,http://cdn8.163189.xyz/163189/lhyp
 龙华洋片,https://hls-gateway.vpstv.net/streams/477076.m3u8
+龙华洋片,http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华经典,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn21
@@ -2419,6 +2420,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 龙华经典,https://live.catvod.com/iptv.php?id=lhjd01
 龙华经典,http://cdn8.163189.xyz/163189/lhjd
 龙华经典,https://hls-gateway.vpstv.net/streams/476294.m3u8
+龙华经典,http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
 靖天国际,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv063
 靖天国际,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv063
 靖天国际,https://live.catvod.com/live.php?id=jingtianintl_twn
