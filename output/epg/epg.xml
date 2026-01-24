@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260124103738 +0800">
+<tv date="20260124153520 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -9156,38 +9156,35 @@
 	<channel id="新疆卫视">
 		<display-name lang="zh">新疆卫视</display-name>
 	</channel>
-	<programme channel="新疆卫视" start="20260124002600 +0800" stop="20260124005300 +0800">
+	<programme channel="新疆卫视" start="20260124002600 +0800" stop="20260124005000 +0800">
 		<title lang="zh">真实纪录</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260124005300 +0800" stop="20260124020400 +0800">
-		<title lang="zh">怦然新动的冬天2</title>
+	<programme channel="新疆卫视" start="20260124005000 +0800" stop="20260124020100 +0800">
+		<title lang="zh">怦然“新”动的冬天2</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260124020400 +0800" stop="20260124024800 +0800">
+	<programme channel="新疆卫视" start="20260124020100 +0800" stop="20260124024400 +0800">
 		<title lang="zh">奔腾岁月(26)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260124024800 +0800" stop="20260124033200 +0800">
+	<programme channel="新疆卫视" start="20260124024400 +0800" stop="20260124032700 +0800">
 		<title lang="zh">奔腾岁月(27)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260124033200 +0800" stop="20260124041600 +0800">
+	<programme channel="新疆卫视" start="20260124032700 +0800" stop="20260124041200 +0800">
 		<title lang="zh">奔腾岁月(28)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260124041600 +0800" stop="20260124043200 +0800">
+	<programme channel="新疆卫视" start="20260124041200 +0800" stop="20260124043000 +0800">
 		<title lang="zh">我们都是追梦人:新疆·面孔</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260124043200 +0800" stop="20260124045900 +0800">
+	<programme channel="新疆卫视" start="20260124043000 +0800" stop="20260124045800 +0800">
 		<title lang="zh">真实纪录</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260124045900 +0800" stop="20260124055900 +0800">
+	<programme channel="新疆卫视" start="20260124045800 +0800" stop="20260124055000 +0800">
 		<title lang="zh">暗夜与黎明(26)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260124055900 +0800" stop="20260124065900 +0800">
+	<programme channel="新疆卫视" start="20260124055000 +0800" stop="20260124065200 +0800">
 		<title lang="zh">暗夜与黎明(27)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260124065900 +0800" stop="20260124075900 +0800">
+	<programme channel="新疆卫视" start="20260124065200 +0800" stop="20260124080000 +0800">
 		<title lang="zh">暗夜与黎明(28)</title>
-	</programme>
-	<programme channel="新疆卫视" start="20260124075900 +0800" stop="20260124080000 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
 	<programme channel="新疆卫视" start="20260124080000 +0800" stop="20260124083200 +0800">
 		<title lang="zh">新疆新闻联播</title>
@@ -9204,8 +9201,56 @@
 	<programme channel="新疆卫视" start="20260124103400 +0800" stop="20260124114300 +0800">
 		<title lang="zh">闯关东(27)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260124114300 +0800" stop="20260124235900 +0800">
+	<programme channel="新疆卫视" start="20260124114300 +0800" stop="20260124125100 +0800">
 		<title lang="zh">闯关东(28)</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124125100 +0800" stop="20260124140000 +0800">
+		<title lang="zh">闯关东(29)</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124140000 +0800" stop="20260124145500 +0800">
+		<title lang="zh">新闻午报</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124145500 +0800" stop="20260124155900 +0800">
+		<title lang="zh">西北岁月(14)</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124155900 +0800" stop="20260124170300 +0800">
+		<title lang="zh">西北岁月(15)</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124170300 +0800" stop="20260124181000 +0800">
+		<title lang="zh">西北岁月(16)</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124181000 +0800" stop="20260124183900 +0800">
+		<title lang="zh">敦煌的故事</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124183900 +0800" stop="20260124190000 +0800">
+		<title lang="zh">新疆·面孔</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124190000 +0800" stop="20260124193000 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124193000 +0800" stop="20260124200000 +0800">
+		<title lang="zh">新疆新闻联播</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124200000 +0800" stop="20260124201200 +0800">
+		<title lang="zh">今日聚焦</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124201200 +0800" stop="20260124210600 +0800">
+		<title lang="zh">三叉戟2(5)</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124210600 +0800" stop="20260124220000 +0800">
+		<title lang="zh">三叉戟2(6)</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124220000 +0800" stop="20260124223000 +0800">
+		<title lang="zh">新疆新闻联播</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124223000 +0800" stop="20260124223500 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124223500 +0800" stop="20260124235600 +0800">
+		<title lang="zh">五星耀中华2</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260124235600 +0800" stop="20260124235900 +0800">
+		<title lang="zh">新闻夜班车</title>
 	</programme>
 	<channel id="无锡娱乐">
 		<display-name lang="zh">无锡娱乐</display-name>
@@ -20151,6 +20196,24 @@
 	<programme channel="纯享4K" start="20260124174800 +0800" stop="20260124182800 +0800">
 		<title lang="zh">探索b7发现4K 灵山下的中山王陵（3）</title>
 	</programme>
+	<programme channel="纯享4K" start="20260124190800 +0800" stop="20260124192300 +0800">
+		<title lang="zh">戏曲的另一种打开方式4K 第3集 打开潮剧衣箱</title>
+	</programme>
+	<programme channel="纯享4K" start="20260124192800 +0800" stop="20260124201000 +0800">
+		<title lang="zh">远方的家4K 运河畔的山水家园 吴地文化发源地</title>
+	</programme>
+	<programme channel="纯享4K" start="20260124201000 +0800" stop="20260124205200 +0800">
+		<title lang="zh">远方的家 运河畔的山水家园 行走在运河之滨</title>
+	</programme>
+	<programme channel="纯享4K" start="20260124205700 +0800" stop="20260124210300 +0800">
+		<title lang="zh">美丽中国自然4K 亚洲象国家公园系列 鹦鹉寨鸟事</title>
+	</programme>
+	<programme channel="纯享4K" start="20260124210300 +0800" stop="20260124213300 +0800">
+		<title lang="zh">信仰的感召4K 丹心永照 夏明翰</title>
+	</programme>
+	<programme channel="纯享4K" start="20260124213300 +0800" stop="20260124221800 +0800">
+		<title lang="zh">梧桐树下老房子4K 第1集 遗珍焕彩</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
@@ -23052,6 +23115,18 @@
 	<programme channel="NewTV动作电影" start="20260124171000 +0800" stop="20260124184200 +0800">
 		<title lang="zh">神偷谍影</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20260124184200 +0800" stop="20260124200100 +0800">
+		<title lang="zh">街区大作战</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260124200100 +0800" stop="20260124203500 +0800">
+		<title lang="zh">神飞航天骨胶原蛋白肽</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260124203500 +0800" stop="20260124215300 +0800">
+		<title lang="zh">古董局中局之国画密码</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260124215300 +0800" stop="20260124223000 +0800">
+		<title lang="zh">嘉裕荣地龙蛋白肽</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -23105,6 +23180,15 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20260124173700 +0800" stop="20260124190400 +0800">
 		<title lang="zh">灵雾岛</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260124190400 +0800" stop="20260124203300 +0800">
+		<title lang="zh">镇魔司：四象伏魔</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260124203300 +0800" stop="20260124211300 +0800">
+		<title lang="zh">嘉裕荣地龙蛋白肽</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260124211300 +0800" stop="20260124224900 +0800">
+		<title lang="zh">袁天罡之异域妖踪</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
