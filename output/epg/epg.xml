@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260126053816 +0800">
+<tv date="20260126153703 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -19977,6 +19977,12 @@
 	<programme channel="纯享4K" start="20260126104100 +0800" stop="20260126112100 +0800">
 		<title lang="zh">探索b7发现4K 最是一抹中国味（2）等一下莫慌嘛</title>
 	</programme>
+	<programme channel="纯享4K" start="20260126122300 +0800" stop="20260126130400 +0800">
+		<title lang="zh">远方的家4K 运河畔的山水家园 秦游驿路 运河人家</title>
+	</programme>
+	<programme channel="纯享4K" start="20260126155800 +0800" stop="20260126162800 +0800">
+		<title lang="zh">记住乡愁4K 龙兴镇——纾困解难</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
@@ -22539,6 +22545,12 @@
 	<programme channel="NewTV动作电影" start="20260126110200 +0800" stop="20260126114300 +0800">
 		<title lang="zh">美国云杉新一代肾康动力黄金肽（跨境）-渠道（右）</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20260126114300 +0800" stop="20260126131300 +0800">
+		<title lang="zh">蒸发太平洋</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20260126155200 +0800" stop="20260126171800 +0800">
+		<title lang="zh">英雄之战</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -22574,6 +22586,12 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20260126105500 +0800" stop="20260126115600 +0800">
 		<title lang="zh">德扑女王2：双面鬼王</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260126123400 +0800" stop="20260126133300 +0800">
+		<title lang="zh">德扑女王3：决战凤凰汇</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20260126140200 +0800" stop="20260126181000 +0800">
+		<title lang="zh">幻体续命游戏</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
