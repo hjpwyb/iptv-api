@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-31 06:46:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-31 18:44:46,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -730,6 +730,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-1.m3u8
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-2.m3u8
+浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-3.m3u8
 浙江钱江台,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江台,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -763,6 +764,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 浙江新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/index.m3u8?fmt=ts2hls
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-1.m3u8
 浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-2.m3u8
+浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-4.m3u8
+浙江新闻,https://t.freetv.fun/live/zhe-jiang-xin-wen-5.m3u8
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -802,6 +805,7 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-1.m3u8
+浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji.m3u8
 嘉兴公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233019/index.m3u8
 嘉兴文化影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233022/index.m3u8
 丽水公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235524/1/index.m3u8?fmt=ts2hls
@@ -878,6 +882,8 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 上虞新商都,https://t.freetv.fun/live/shang-yu-xin-shang-du-1.m3u8
 上虞新商都,https://t.freetv.fun/live/shang-yu-xin-shang-du.m3u8
+上虞新商都,https://t.freetv.fun/live/shang-yu-xin-shang-du-2.m3u8
+上虞新商都,https://t.freetv.fun/live/shang-yu-xin-shang-du-3.m3u8
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 上虞文化影院,https://t.freetv.fun/live/shang-yu-wen-hua-ying-yuan.m3u8
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
@@ -998,6 +1004,7 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=60bbc34c334d599e2bddab5064d1473a&wsTime=1769356841
 新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=33b992b0fd8b1449f3642966c23a1dbd&wsTime=1769536775
 新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=0276ddeefdd747c00adfeb8f666d0c68&wsTime=1769716802
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=f59fa19395e2396946bbac8418859805&wsTime=1769796050
 欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc
 欢笑剧场,http://gat.bkpcp.top/ymg.php?id=hxjc
 欢笑剧场,http://goo.bkpcp.top/mg/hxjc
@@ -2368,6 +2375,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 台视新闻,https://t.freetv.fun/live/tai-shi-xin-wen-1-2.m3u8
 台视新闻,https://t.freetv.fun/live/tai-shi-xin-wen-1.m3u8
 台视新闻,https://t.freetv.fun/live/tai-shi-xin-wen-2-1.m3u8
+台视新闻,https://t.freetv.fun/live/tai-shi-xin-wen-2.m3u8
 台视综合,https://live.catvod.com/live.php?id=ttvzhonghe
 台视综合,http://php.666230.xyz/smt.php?id=ttvzhonghe
 台视综合,https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
@@ -2446,6 +2454,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 龙华戏剧,https://hls-gateway.vpstv.net/streams/476293.m3u8
 龙华戏剧,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn18
 龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
+龙华戏剧,https://t.freetv.fun/live/long-hua-xi-ju-1.m3u8
 龙华偶像,https://cdn8.163189.xyz/163189/lhox
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华偶像,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn12

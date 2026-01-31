@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🕘️更新时间",2026-01-31 06:46:43
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🕘️更新时间",2026-01-31 18:44:46
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1445,6 +1445,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-1.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江钱江都市.png" group-title="☘️浙江频道",浙江钱江都市
 https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-2.m3u8
+#EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江钱江都市.png" group-title="☘️浙江频道",浙江钱江都市
+https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-3.m3u8
 #EXTINF:-1 tvg-name="浙江钱江台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江钱江台.png" group-title="☘️浙江频道",浙江钱江台
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江钱江台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江钱江台.png" group-title="☘️浙江频道",浙江钱江台
@@ -1511,6 +1513,10 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/index.m3u8
 https://t.freetv.fun/live/zhe-jiang-xin-wen-1.m3u8
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江新闻.png" group-title="☘️浙江频道",浙江新闻
 https://t.freetv.fun/live/zhe-jiang-xin-wen-2.m3u8
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江新闻.png" group-title="☘️浙江频道",浙江新闻
+https://t.freetv.fun/live/zhe-jiang-xin-wen-4.m3u8
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江新闻.png" group-title="☘️浙江频道",浙江新闻
+https://t.freetv.fun/live/zhe-jiang-xin-wen-5.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江少儿.png" group-title="☘️浙江频道",浙江少儿
 https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江少儿.png" group-title="☘️浙江频道",浙江少儿
@@ -1589,6 +1595,8 @@ http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel010/720p.m3u8
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江国际.png" group-title="☘️浙江频道",浙江国际
 https://t.freetv.fun/live/zhe-jiang-guo-ji-1.m3u8
+#EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江国际.png" group-title="☘️浙江频道",浙江国际
+https://t.freetv.fun/live/zhe-jiang-guo-ji.m3u8
 #EXTINF:-1 tvg-name="嘉兴公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉兴公共.png" group-title="☘️浙江频道",嘉兴公共
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233019/index.m3u8
 #EXTINF:-1 tvg-name="嘉兴文化影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉兴文化影视.png" group-title="☘️浙江频道",嘉兴文化影视
@@ -1741,6 +1749,10 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 https://t.freetv.fun/live/shang-yu-xin-shang-du-1.m3u8
 #EXTINF:-1 tvg-name="上虞新商都" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上虞新商都.png" group-title="☘️浙江频道",上虞新商都
 https://t.freetv.fun/live/shang-yu-xin-shang-du.m3u8
+#EXTINF:-1 tvg-name="上虞新商都" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上虞新商都.png" group-title="☘️浙江频道",上虞新商都
+https://t.freetv.fun/live/shang-yu-xin-shang-du-2.m3u8
+#EXTINF:-1 tvg-name="上虞新商都" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上虞新商都.png" group-title="☘️浙江频道",上虞新商都
+https://t.freetv.fun/live/shang-yu-xin-shang-du-3.m3u8
 #EXTINF:-1 tvg-name="上虞文化影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上虞文化影院.png" group-title="☘️浙江频道",上虞文化影院
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 tvg-name="上虞文化影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上虞文化影院.png" group-title="☘️浙江频道",上虞文化影院
@@ -1973,6 +1985,8 @@ http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playl
 http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=33b992b0fd8b1449f3642966c23a1dbd&wsTime=1769536775
 #EXTINF:-1 tvg-name="新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新闻.png" group-title="☘️上海频道",新闻
 http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=0276ddeefdd747c00adfeb8f666d0c68&wsTime=1769716802
+#EXTINF:-1 tvg-name="新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新闻.png" group-title="☘️上海频道",新闻
+http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=f59fa19395e2396946bbac8418859805&wsTime=1769796050
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欢笑剧场.png" group-title="☘️上海频道",欢笑剧场
 http://z.b.bkpcp.top/m.php?id=hxjc
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欢笑剧场.png" group-title="☘️上海频道",欢笑剧场
@@ -4577,6 +4591,8 @@ https://t.freetv.fun/live/tai-shi-xin-wen-1-2.m3u8
 https://t.freetv.fun/live/tai-shi-xin-wen-1.m3u8
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视新闻.png" group-title="🎵台湾频道",台视新闻
 https://t.freetv.fun/live/tai-shi-xin-wen-2-1.m3u8
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视新闻.png" group-title="🎵台湾频道",台视新闻
+https://t.freetv.fun/live/tai-shi-xin-wen-2.m3u8
 #EXTINF:-1 tvg-name="台视综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视综合.png" group-title="🎵台湾频道",台视综合
 https://live.catvod.com/live.php?id=ttvzhonghe
 #EXTINF:-1 tvg-name="台视综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视综合.png" group-title="🎵台湾频道",台视综合
@@ -4733,6 +4749,8 @@ https://hls-gateway.vpstv.net/streams/476293.m3u8
 https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn18
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华戏剧.png" group-title="🎵台湾频道",龙华戏剧
 http://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华戏剧.png" group-title="🎵台湾频道",龙华戏剧
+https://t.freetv.fun/live/long-hua-xi-ju-1.m3u8
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="🎵台湾频道",龙华偶像
 https://cdn8.163189.xyz/163189/lhox
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="🎵台湾频道",龙华偶像
