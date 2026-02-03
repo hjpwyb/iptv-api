@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🕘️更新时间",2026-02-02 19:01:49
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🕘️更新时间",2026-02-03 18:58:19
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -4677,6 +4677,8 @@ https://hls-gateway.vpstv.net/streams/477039.m3u8
 https://tv.iill.top/x/wlrb&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
 #EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来日本.png" group-title="🎵台湾频道",纬来日本
 https://tv.iill.top/x/wlrb
+#EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来日本.png" group-title="🎵台湾频道",纬来日本
+https://hls.iill.top/api/wlrb/index.m3u8
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来电影.png" group-title="🎵台湾频道",纬来电影
 https://hls-gateway.vpstv.net/streams/477063.m3u8
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来电影.png" group-title="🎵台湾频道",纬来电影

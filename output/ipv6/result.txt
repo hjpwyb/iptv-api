@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-02 19:01:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-03 18:58:19,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2418,6 +2418,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 纬来日本,https://hls-gateway.vpstv.net/streams/477039.m3u8
 纬来日本,https://tv.iill.top/x/wlrb&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
 纬来日本,https://tv.iill.top/x/wlrb
+纬来日本,https://hls.iill.top/api/wlrb/index.m3u8
 纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影,https://live.catvod.com/catvod_com.php?id=videolandmovie
