@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-06 06:48:28,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-06 19:03:05,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2523,6 +2523,7 @@ CINEMAX,https://hls-gateway.vpstv.net/streams/709596.m3u8
 龙祥时代,https://live.catvod.com/live.php?id=lungxiangtime_twn
 龙祥时代,http://php.666230.xyz/smt.php?id=lungxiangtime_twn
 龙祥时代,https://hls-gateway.vpstv.net/streams/476295.m3u8
+龙祥时代,https://hls.iill.top/api/lxsd/index.m3u8
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影,https://hls-gateway.vpstv.net/streams/709286.m3u8
 美亚电影,https://hls-gateway.vpstv.net/streams/708901.m3u8
