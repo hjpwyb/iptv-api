@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-10 06:56:14,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-10 19:16:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1008,6 +1008,7 @@ NBTV-4,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597/1/ind
 新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=f59fa19395e2396946bbac8418859805&wsTime=1769796050
 新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=42bc98dfba0c470e5c6e2fca91a0a9be&wsTime=1770235200
 新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=757d8ee6623c4d4aeabb52f16d6de49f&wsTime=1770487102
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=635be025696e6fd5c771a25b74d7ecc2&wsTime=1770631207
 欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc
 欢笑剧场,http://gat.bkpcp.top/ymg.php?id=hxjc
 欢笑剧场,http://goo.bkpcp.top/mg/hxjc
