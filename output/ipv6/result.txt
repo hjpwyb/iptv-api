@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-13 06:54:16,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-13 18:59:51,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -748,6 +748,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-2.m3u8
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-3.m3u8
+浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-1.m3u8
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江教育,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
@@ -2699,11 +2700,14 @@ Warner TV,https://live.catvod.com/live.php?id=WarnerTV
 HBO Signature,https://hls-gateway.vpstv.net/streams/476634.m3u8
 HBO Signature,https://hls-gateway.vpstv.net/streams/477731.m3u8
 HBO Signature,https://live.catvod.com/live.php?id=Hbosignature
+HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
 HBO Family,https://hls-gateway.vpstv.net/streams/477727.m3u8
 HBO Family,https://live.catvod.com/live.php?id=Hbofamily
+HBO Family,https://hls.iill.top/api/HBO-Family/index.m3u8
 HBO Hits,https://hls-gateway.vpstv.net/streams/709552.m3u8
 HBO Hits,https://hls-gateway.vpstv.net/streams/709585.m3u8
 HBO Hits,https://live.catvod.com/live.php?id=Hbohitshd
+HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
 Cinemax,https://live.catvod.com/live.php?id=Cinemax
 Dreamworks,https://live.catvod.com/live.php?id=Dreamworks
 SCM,https://live.catvod.com/live.php?id=Weishimovie&token=d5460ea0860aec8662af6700fe67ee1e70ec9f6a9b139855746b6cbf3c8e308f%3A1765934527%3AMTcyLjE4NC4xNzUuMTQ0

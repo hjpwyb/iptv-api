@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🕘️更新时间",2026-02-13 06:54:16
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🕘️更新时间",2026-02-13 18:59:51
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1481,6 +1481,8 @@ http://ls.qingting.fm/live/1099.m3u8
 https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-2.m3u8
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江经济生活.png" group-title="☘️浙江频道",浙江经济生活
 https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-3.m3u8
+#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江经济生活.png" group-title="☘️浙江频道",浙江经济生活
+https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-1.m3u8
 #EXTINF:-1 tvg-name="浙江教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江教育.png" group-title="☘️浙江频道",浙江教育
 http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 #EXTINF:-1 tvg-name="浙江教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江教育.png" group-title="☘️浙江频道",浙江教育
@@ -5231,16 +5233,22 @@ https://hls-gateway.vpstv.net/streams/476634.m3u8
 https://hls-gateway.vpstv.net/streams/477731.m3u8
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO Signature.png" group-title="电影",HBO Signature
 https://live.catvod.com/live.php?id=Hbosignature
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO Signature.png" group-title="电影",HBO Signature
+https://hls.iill.top/api/HBO-Signature/index.m3u8
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO Family.png" group-title="电影",HBO Family
 https://hls-gateway.vpstv.net/streams/477727.m3u8
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO Family.png" group-title="电影",HBO Family
 https://live.catvod.com/live.php?id=Hbofamily
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO Family.png" group-title="电影",HBO Family
+https://hls.iill.top/api/HBO-Family/index.m3u8
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO Hits.png" group-title="电影",HBO Hits
 https://hls-gateway.vpstv.net/streams/709552.m3u8
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO Hits.png" group-title="电影",HBO Hits
 https://hls-gateway.vpstv.net/streams/709585.m3u8
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO Hits.png" group-title="电影",HBO Hits
 https://live.catvod.com/live.php?id=Hbohitshd
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO Hits.png" group-title="电影",HBO Hits
+https://hls.iill.top/api/HBO-Hits/index.m3u8
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Cinemax.png" group-title="电影",Cinemax
 https://live.catvod.com/live.php?id=Cinemax
 #EXTINF:-1 tvg-name="Dreamworks" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Dreamworks.png" group-title="电影",Dreamworks
