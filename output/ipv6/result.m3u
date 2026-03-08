@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🕘️更新时间",2026-03-08 06:39:26
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🕘️更新时间",2026-03-08 18:40:22
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -4851,6 +4851,8 @@ https://live.catvod.com/live.php?id=feifannews_twn
 https://live.catvod.com/live.php?id=niandainews_twn
 #EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/年代新闻.png" group-title="🎵台湾频道",年代新闻
 https://hls-gateway.vpstv.net/streams/709037.m3u8
+#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/年代新闻.png" group-title="🎵台湾频道",年代新闻
+https://t.freetv.fun/live/nian-dai-xin-wen.php
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华戏剧.png" group-title="🎵台湾频道",龙华戏剧
 https://cdn8.163189.xyz/163189/lhxj
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华戏剧.png" group-title="🎵台湾频道",龙华戏剧
