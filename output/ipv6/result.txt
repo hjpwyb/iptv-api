@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-25 06:45:04,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-25 19:02:09,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -242,6 +242,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 风云音乐,http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
+风云音乐,https://t.freetv.fun/live/cctvfeng-yun-yin-le.php
 第一剧场,http://tl.061833.xyz/tl/null-6
 第一剧场,http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
 第一剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244808/main.m3u8?stbid=
@@ -1991,6 +1992,7 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 靖天映画,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8
 靖天映画,https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8
 靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 靖天戏剧,http://pullpackage.alivecdn.com/live/pU4fD0cP0dx6iXknYRcEzuZOQ6P6z5FsZ9KvAOPGsBry6iYBSe.flv
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
@@ -1999,6 +2001,7 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-6.m3u8
 靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-8.m3u8
 靖天戏剧,https://t.freetv.fun/live/jing-tian-xi-ju-9.m3u8
+靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,https://mursor.ottiptv.cc/bilibili/1777481601
@@ -2348,6 +2351,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 风云音乐,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244809/main.m3u8?stbid=
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 风云音乐,http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
+风云音乐,https://t.freetv.fun/live/cctvfeng-yun-yin-le.php
 音乐广播,https://tv-1.iill.top/fm/552
 音乐广播,https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 音乐广播,https://tv.iill.top/fm/552&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
@@ -2442,6 +2446,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 中视新闻,https://hls-gateway.vpstv.net/streams/476269.m3u8
 中视新闻,https://live.catvod.com/live.php?id=zhongshinews_twn
 中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen-1.php
+中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen-3.php
 中视经典,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv080
 中视经典,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv080
 中视经典,https://hls-gateway.vpstv.net/streams/476362.m3u8
@@ -2459,6 +2464,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 中天新闻,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv009
 中天新闻,https://hls-gateway.vpstv.net/streams/477695.m3u8
 中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-4.php
+中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-5.php
 八大综合台,https://hls-gateway.vpstv.net/streams/477069.m3u8
 八大戏剧台,https://hls-gateway.vpstv.net/streams/488934.m3u8
 八大娱乐台,https://hls-gateway.vpstv.net/streams/477064.m3u8

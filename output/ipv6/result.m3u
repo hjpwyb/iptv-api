@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/hjpwyb/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🕘️更新时间",2026-03-25 06:45:04
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🕘️更新时间",2026-03-25 19:02:09
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -481,6 +481,8 @@ https://hls-gateway.vpstv.net/streams/708858.m3u8
 http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png" group-title="📺央视频道",风云音乐
 http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png" group-title="📺央视频道",风云音乐
+https://t.freetv.fun/live/cctvfeng-yun-yin-le.php
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png" group-title="📺央视频道",第一剧场
 http://tl.061833.xyz/tl/null-6
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png" group-title="📺央视频道",第一剧场
@@ -3851,6 +3853,8 @@ https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8
 https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天映画.png" group-title="🎬电影频道",靖天映画
 https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
+#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天映画.png" group-title="🎬电影频道",靖天映画
+https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天戏剧.png" group-title="🎬电影频道",靖天戏剧
 http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天戏剧.png" group-title="🎬电影频道",靖天戏剧
@@ -3867,6 +3871,8 @@ https://t.freetv.fun/live/jing-tian-xi-ju-6.m3u8
 https://t.freetv.fun/live/jing-tian-xi-ju-8.m3u8
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天戏剧.png" group-title="🎬电影频道",靖天戏剧
 https://t.freetv.fun/live/jing-tian-xi-ju-9.m3u8
+#EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天戏剧.png" group-title="🎬电影频道",靖天戏剧
+https://cdn12.178.indevs.in/163189/177d541552f78003
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/经典电影.png" group-title="🎬电影频道",经典电影
 http://goo.bkpcp.top/mg/jdxgdy
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/经典电影.png" group-title="🎬电影频道",经典电影
@@ -4545,6 +4551,8 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244
 http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png" group-title="🎵音乐频道",风云音乐
 http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png" group-title="🎵音乐频道",风云音乐
+https://t.freetv.fun/live/cctvfeng-yun-yin-le.php
 #EXTINF:-1 tvg-name="音乐广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/音乐广播.png" group-title="🎵音乐频道",音乐广播
 https://tv-1.iill.top/fm/552
 #EXTINF:-1 tvg-name="音乐广播" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/音乐广播.png" group-title="🎵音乐频道",音乐广播
@@ -4725,6 +4733,8 @@ https://hls-gateway.vpstv.net/streams/476269.m3u8
 https://live.catvod.com/live.php?id=zhongshinews_twn
 #EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视新闻.png" group-title="🎵台湾频道",中视新闻
 https://t.freetv.fun/live/zhong-shi-xin-wen-1.php
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视新闻.png" group-title="🎵台湾频道",中视新闻
+https://t.freetv.fun/live/zhong-shi-xin-wen-3.php
 #EXTINF:-1 tvg-name="中视经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视经典.png" group-title="🎵台湾频道",中视经典
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv080
 #EXTINF:-1 tvg-name="中视经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视经典.png" group-title="🎵台湾频道",中视经典
@@ -4759,6 +4769,8 @@ https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv009
 https://hls-gateway.vpstv.net/streams/477695.m3u8
 #EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新闻.png" group-title="🎵台湾频道",中天新闻
 https://t.freetv.fun/live/zhong-tian-xin-wen-4.php
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新闻.png" group-title="🎵台湾频道",中天新闻
+https://t.freetv.fun/live/zhong-tian-xin-wen-5.php
 #EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大综合台.png" group-title="🎵台湾频道",八大综合台
 https://hls-gateway.vpstv.net/streams/477069.m3u8
 #EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大戏剧台.png" group-title="🎵台湾频道",八大戏剧台
